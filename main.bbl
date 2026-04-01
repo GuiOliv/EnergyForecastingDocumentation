@@ -69,6 +69,11 @@ Lei Kang, Xuanshuo Fu, Javier Vazquez-Corral, Ernest Valveny, and Dimosthenis
 \newblock xlstm-ecg: Multi-label ecg classification via feature fusion with
   xlstm, 2025.
 
+\bibitem{curseOfAttention}
+Yekun Ke, Yingyu Liang, Zhenmei Shi, Zhao Song, and Chiwun Yang.
+\newblock Curse of attention: A kernel-based perspective for why transformers
+  fail to generalize on time series forecasting and beyond, 2024.
+
 \bibitem{Kong2025}
 Xiangjie Kong, Zhenghao Chen, Weiyao Liu, Kaili Ning, Lechao Zhang, Syauqie
   Muhammad~Marier, Yichen Liu, Yuhao Chen, and Feng Xia.
@@ -80,6 +85,12 @@ Xiangjie Kong, Zhenghao Chen, Weiyao Liu, Kaili Ning, Lechao Zhang, Syauqie
 Maurice Kraus, Felix Divo, Devendra~Singh Dhami, and Kristian Kersting.
 \newblock xlstm-mixer: Multivariate time series forecasting by mixing via
   scalar memories, 2024.
+
+\bibitem{iTrans}
+Yong Liu, Tengge Hu, Haoran Zhang, Haixu Wu, Shiyu Wang, Lintao Ma, and
+  Mingsheng Long.
+\newblock itransformer: Inverted transformers are effective for time series
+  forecasting, 2023.
 
 \bibitem{Ma2025}
 Xiangkai Ma and Huaxiong Zhang.
@@ -127,6 +138,12 @@ Zhen Shao, Qingru Zheng, Chen Liu, Shuangyan Gao, Gang Wang, and Yan Chu.
   spot price forecasting using a hybrid deep neural network.
 \newblock {\em Electric Power Systems Research}, 200:107453, November 2021.
 
+\bibitem{su2019kernel}
+Yu-Chuan Su and Kristen Grauman.
+\newblock Kernel transformer networks for compact spherical convolution.
+\newblock In {\em Proceedings of the IEEE/CVF conference on computer vision and
+  pattern recognition}, pages 9442--9451, 2019.
+
 \bibitem{Taylor2017}
 Sean~J Taylor and Benjamin Letham.
 \newblock Forecasting at scale.
@@ -151,5 +168,11 @@ Yuzhen Xu, Xin Huang, Ziao Gao, Mohamed~A. Mohamed, and Tao Jin.
   multi-attention feature fusion model optimized by variational mode
   decomposition.
 \newblock {\em Measurement}, 253:117596, September 2025.
+
+\bibitem{Yemets2025}
+Kyrylo Yemets, Ivan Izonin, and Ivanna Dronyuk.
+\newblock Time series forecasting model based on the adapted transformer neural
+  network and fft-based features extraction.
+\newblock {\em Sensors}, 25(3):652, January 2025.
 
 \end{thebibliography}

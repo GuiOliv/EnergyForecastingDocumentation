@@ -6,45 +6,45 @@ The style file: plain.bst
 Reallocating 'name_of_file' (item size: 1) to 10 items.
 Database file #1: citations.bib
 Warning--empty journal in Taylor2017
-You've used 25 entries,
+You've used 29 entries,
             2118 wiz_defined-function locations,
-            662 strings with 9219 characters,
-and the built_in function-call counts, 9065 in all, are:
-= -- 815
-> -- 580
-< -- 1
-+ -- 236
-- -- 202
-* -- 751
-:= -- 1570
-add.period$ -- 71
-call.type$ -- 25
-change.case$ -- 176
+            682 strings with 10035 characters,
+and the built_in function-call counts, 10585 in all, are:
+= -- 952
+> -- 677
+< -- 2
++ -- 274
+- -- 236
+* -- 859
+:= -- 1814
+add.period$ -- 81
+call.type$ -- 29
+change.case$ -- 205
 chr.to.int$ -- 0
-cite$ -- 26
-duplicate$ -- 267
-empty$ -- 622
-format.name$ -- 202
-if$ -- 1807
+cite$ -- 30
+duplicate$ -- 317
+empty$ -- 733
+format.name$ -- 236
+if$ -- 2126
 int.to.chr$ -- 0
-int.to.str$ -- 25
-missing$ -- 21
-newline$ -- 124
-num.names$ -- 50
-pop$ -- 163
+int.to.str$ -- 29
+missing$ -- 23
+newline$ -- 142
+num.names$ -- 58
+pop$ -- 203
 preamble$ -- 1
-purify$ -- 151
+purify$ -- 176
 quote$ -- 0
-skip$ -- 202
+skip$ -- 249
 stack$ -- 0
-substring$ -- 483
-swap$ -- 34
-text.length$ -- 1
+substring$ -- 552
+swap$ -- 50
+text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 100
+type$ -- 116
 warning$ -- 1
-while$ -- 68
-width$ -- 27
-write$ -- 263
+while$ -- 80
+width$ -- 31
+write$ -- 301
 (There was 1 warning)
