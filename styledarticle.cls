@@ -258,3 +258,7 @@ Abstract. \mdseries\rmfamily
 \captionsetup[ruled]{labelfont={sf,bf}}
 }
 }
+
+\newenvironment{Figure}
+  {\par\medskip\noindent\minipage{\linewidth}}
+  {\endminipage\par\medskip}
